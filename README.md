@@ -5,3 +5,8 @@ This project deals with the classification of fruits and vegetables. It is a sim
  
 Technologies and Tools
 The Technologies we have used are Streamlit Python, Kaggel Datasets, and basic HTML to reference out Project. Here we have an extended data set and robust collection of data which is specifically trained to recognise and group most fruits and vegetables with a rate of 85% accuracy and 99.9% downtime. We tend to add more data samples in out dataset to make it a near 99% accurate and help our users to have a less hassle-free experience.
+
+
+
+
+DEMO URL LINK : https://drive.google.com/file/d/1-epUdOpJAJF-olo2GVBo7BgQ7k7xhNll/view?usp=sharing
